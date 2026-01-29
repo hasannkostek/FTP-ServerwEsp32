@@ -1,3 +1,5 @@
+**NOT:** Bu proje Kablosuz Ağlar dersi için grup ödevi olarak geliştirilmiştir. Benim katkım sistem entegrasyonu ve test süreçleri üzerinedir.
+
 # 📂 FTP Server with ESP32 (Bu proje Dr. Öğr. Üyesi Hasan SERDAR hocamızın "Kablosuz Ağlar" dersi için yapılmıştır.)
 
 Bu proje, **ESP32** mikrodenetleyicisini bağımsız bir **FTP Sunucusu** ve **WiFi Erişim Noktası (AP)** olarak kullanmanızı sağlar. ESP32, kendi WiFi ağını oluşturur ve bağlanan cihazların (bilgisayar, telefon vb.) ESP32 üzerindeki SD karta dosya yüklemesine veya var olan dosyaları indirmesine olanak tanır.
@@ -63,3 +65,5 @@ Seri monitör (Baud: 115200) üzerinden bağlantı durumunu takip edebilirsiniz:
 Erişim noktası açıldı
 AP IP adres: 192.168.4.1
 SD karta bağlandı!
+```
+**NOT:** Bu proje Kablosuz Ağlar dersi için grup ödevi olarak geliştirilmiştir. Benim katkım sistem entegrasyonu ve test süreçleri üzerinedir.
